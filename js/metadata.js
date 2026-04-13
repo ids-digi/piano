@@ -10,7 +10,7 @@ const data = {
             "email": "nelsonnb@iu.edu",
             // "twitter": "catcharron",
             "pfp": "https://s3.amazonaws.com/snwceomedia/ids/f51862f9-2b10-44cb-8646-adcead5cf296.original.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
+            "bio": "Natalia Nelson has worked for the IDS since 2024 and is an enterprise editor."
         },
         'Photos by': {
             name: 'Emerson Elledge',
