@@ -1,34 +1,31 @@
 const data = {
     "url": "your-url-here",
     "slug": "Story slug",
-    "headline": "This is the headline",
+    "headline": "He hated playing piano. Now, that's how he earns a living",
     "title": "Buildout Template",
     "pub_date": "{insert your date in metadata.json}",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
+            "name": "Natalia Nelson",
+            "email": "nelsonnb@iu.edu",
+            // "twitter": "catcharron",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/f51862f9-2b10-44cb-8646-adcead5cf296.original.jpg",
             "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
         },
-        "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+        'Photos by': {
+            name: 'Emerson Elledge',
+            email: "eelledge@iu.edu",
+            pfp: "https://s3.amazonaws.com/snwceomedia/ids/db1f07e5-bd05-46b2-8082-4d568726b42c.original.jpg",
+            bio: "Emerson Elledge has worked for the IDS since 2024 as a writer and photographer."
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Calvin Josenhans",
+            "email": "cjosenha@iu.edu",
+            "twitter": "CalvinJosenhans",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/13acda73-a88b-4fb5-bb21-8a4342e8a14c.original.jpg",
+            "bio": "Calvin has worked at the IDS since 2024 on the digital desk."
         },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
-        }
+
     }
 }
 
