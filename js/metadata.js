@@ -2,8 +2,8 @@ const data = {
     "url": "andy-morris-piano-social-media-bloomington",
     "slug": "Andy Morris",
     "headline": "He hated playing piano. Now, that's how he earns a living",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "title": "Andy Morris",
+    "pub_date": "April 14, 2026",
     "bylines": {
         "By": {
             "name": "Natalia Nelson",
