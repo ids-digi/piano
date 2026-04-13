@@ -1,6 +1,6 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Story slug",
+    "url": "andy-morris-piano-social-media-bloomington",
+    "slug": "Andy Morris",
     "headline": "He hated playing piano. Now, that's how he earns a living",
     "title": "Buildout Template",
     "pub_date": "{insert your date in metadata.json}",
